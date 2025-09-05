@@ -1,6 +1,6 @@
-# V-STRONG: Visual self-supervised traversability learning for off-road navigation
-> Sanghun Jung, JoonHo Lee, Xiangyun Meng, Byron Boots, and Alexander Lambert
-> University of Washington
+# V-STRONG: Visual Self-supervised Traversability Learning for Off-road Navigation
+> Sanghun Jung, JoonHo Lee, Xiangyun Meng, Byron Boots, and Alexander Lambert <br>
+> University of Washington <br>
 > ICRA 2024 <br>
 
 <a href="https://sites.google.com/view/visual-traversability-learning"><img src="https://img.shields.io/badge/webpage-visual.traversability.learning-blue?style=for-the-badge"></a>
